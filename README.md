@@ -14,11 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 ## Screens Are Below
 
 
-<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/1.jpg" width="128"/>
-<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/2.jpg" width="128"/>
-<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/3.jpg" width="128"/>
-![ScreenShot](https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/2.jpg)
-![ScreenShot](https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/3.jpg)
+<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/1.jpg" width="256"/>
+<br>
+<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/2.jpg" width="256"/>
+<br>
+<img src="https://raw.github.com/CrickSoldier/coffee_app_ui/master/screens/3.jpg" width="256"/>
 
 
 
