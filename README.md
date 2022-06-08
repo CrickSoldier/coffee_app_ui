@@ -1,4 +1,4 @@
-# Ecom_Shoe Screens
+# Coffee_app_ui Screens
 
 A new Flutter project having screens of a E-com based on Shoe Product.
 
